@@ -24,6 +24,9 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ### 🧱 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -45,13 +48,16 @@
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:pawan@example.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://your-portfolio.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox-browser&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pawan-pal-28514632a" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:pawan@example.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox-browser&logoColor=white">
+  </a>
 </p>
-
-
-
 
 
 <!--
