@@ -13,7 +13,8 @@
 - 🌱 Currently learning **React.js, Node.js, and MongoDB**
 - 💡 I enjoy building responsive websites and scalable web apps
 - 🔥 Passionate about **open-source projects & mastering modern web technologies**
-- 📬 Reach me at: [pawan@example.com](mailto:pawan@example.com)
+- 📬 Reach me at:pawannnn2141@gmail.com
+- 
 
 ---
 
@@ -32,7 +33,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
 
 ---
 
