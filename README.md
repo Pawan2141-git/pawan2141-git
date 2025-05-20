@@ -55,7 +55,7 @@
   <a href="mailto:pawan@example.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="👉 (https://portfolio-uskd.vercel.app/)>
     <img alt="Website" src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox-browser&logoColor=white">
   </a>
 </p>
