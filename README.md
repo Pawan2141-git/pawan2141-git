@@ -13,8 +13,7 @@
 - 🌱 Currently learning **React.js, Node.js, and MongoDB**
 - 💡 I enjoy building responsive websites and scalable web apps
 - 🔥 Passionate about **open-source projects & mastering modern web technologies**
-- 📬 Reach me at:pawannnn2141@gmail.com
-- 
+- 📬 Reach me at: pawannnn2141@gmail.com
 
 ---
 
@@ -34,7 +33,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-
 ---
 
 ## 📈 GitHub Stats
@@ -48,30 +46,14 @@
 
 ## 🌐 Connect with Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/pawan-pal-28514632a" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:pawan@example.com">
+  <a href="mailto:pawannnn2141@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
-  <a href="👉 (https://portfolio-uskd.vercel.app/)>
+  <a href="https://portfolio-uskd.vercel.app" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox-browser&logoColor=white">
   </a>
 </p>
-
-
-<!--
-**Pawan2141-git/pawan2141-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
