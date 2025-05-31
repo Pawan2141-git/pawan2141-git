@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 💻 **Web Developer | Frontend & Backend Enthusiast**
+- 💻 **Web Developer | Frontend  Enthusiast**
 - 🌱 Currently learning **React.js, Node.js, and MongoDB**
 - 💡 I enjoy building responsive websites and scalable web apps
 - 🔥 Passionate about **open-source projects & mastering modern web technologies**
