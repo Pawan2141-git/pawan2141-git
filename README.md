@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Pawan Pal</h1>
+<h3 align="center">A Passionate Web Developer </h3>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Passionate+Web+Developer;Building+Amazing+Web+Applications;Always+Learning+%7C+Always+Growing" alt="Typing SVG" />
 </div>
