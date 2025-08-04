@@ -16,7 +16,7 @@
 Hi, I'm **Pawan Pal**, a passionate Full Stack Web Developer from 🇮🇳 India.  
 I love building smart, scalable apps and exploring the worlds of **AI**, **web technologies**, and **automation**.
 
-- 🔭 Currently building: **ElderHelp.ai**, **CryptoTradeX**, **ZenSpeak**, and more.
+- 🔭 Currently building: **ElderHelp.ai**, 
 - 🌱 Exploring: Next.js, Docker, and AI Chatbot integrations.
 - 🎯 Goal: To innovate and contribute to impactful open-source and real-world projects.
 - 💬 Ask me about **React**, **Node.js**, **MongoDB**, **Express**, **AI APIs**, **Tailwind**, and anything web!
