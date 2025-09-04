@@ -70,6 +70,9 @@ I love building smart, scalable apps and exploring the worlds of **AI**, **web t
 | Project | Description | Tech |
 |--------|-------------|------|
 | [ElderHelp.ai](https://elderhelp-ai.vercel.app/) | A real-world social app to assist elderly people with medicine, help, tracking, and AI chat. | React, Node.js, MongoDB, OpenAI |
+| [Salon Booking Website](https://github.com/Pawan2141-git/salon-booking-website) | Premium barber shop website with booking system. | HTML, CSS, JS |
+| [Aria AI Chatbot](https://github.com/Pawan2141-git/Aria-ai-chatbot) | Advanced AI chatbot with voice commands. | HTML, JS |
+| [Harry Potter Invisible Cloak](https://github.com/Pawan2141-git/harry-potter-invible-cloat) | Python OpenCV app for Harry Potter-style invisible cloak effect. | Python, OpenCV |
 
 ---
 
