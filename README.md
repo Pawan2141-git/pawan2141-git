@@ -1,93 +1,108 @@
 <!-- GitHub README for Pawan Pal -->
 
-<h1 align="center">Hey there, I'm Pawan Pal 👋</h1>
+<!-- 🔥 Neon Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Open+Source+Enthusiast;Always+Learning+Something+New!&center=true&width=500&height=45" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=250&section=header&text=Pawan%20Pal%20🔥&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="800" />
-</p>
-
----
-
-## 🙋‍♂️ About Me
-
-Hi, I'm **Pawan Pal**, a passionate Full Stack Web Developer from 🇮🇳 India.  
-I love building smart, scalable apps and exploring the worlds of **AI**, **web technologies**, and **automation**.
-
-- 🔭 Currently building: **ElderHelp.ai**, 
-- 🌱 Exploring: Next.js, Docker, and AI Chatbot integrations.
-- 🎯 Goal: To innovate and contribute to impactful open-source and real-world projects.
-- 💬 Ask me about **React**, **Node.js**, **MongoDB**, **Express**, **AI APIs**, **Tailwind**, and anything web!
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: My code runs better at 3 AM ☕️
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-
-### 🧠 AI & ML
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-00979D?logo=render&logoColor=white)
-
----
-
-## 🔥 GitHub Stats
+<h2 align="center">💻 Full Stack Developer | 🚀 AI Explorer | 🌐 Open Source Enthusiast</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pawan2141-git&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pawan2141-git&theme=tokyonight" height="160"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Smart+Apps+for+Future;AI+%7C+Web3+%7C+Cloud+Engineering;Always+Learning+New+Things;Open+Source+%7C+Innovation%7C+Impact!&center=true&width=800&height=45&color=00F5D4" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🙋‍♂️ About Me  
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [ElderHelp.ai](https://elderhelp-ai.vercel.app/) | A real-world social app to assist elderly people with medicine, help, tracking, and AI chat. | React, Node.js, MongoDB, OpenAI |
-| [Salon Booking Website](https://github.com/Pawan2141-git/salon-booking-website) | Premium barber shop website with booking system. | HTML, CSS, JS |
-| [Aria AI Chatbot](https://github.com/Pawan2141-git/Aria-ai-chatbot) | Advanced AI chatbot with voice commands. | HTML, JS |
-| [Harry Potter Invisible Cloak](https://github.com/Pawan2141-git/harry-potter-invible-cloat) | Python OpenCV app for Harry Potter-style invisible cloak effect. | Python, OpenCV |
+- 👨‍💻 Passionate about **AI, Full Stack & Cloud Development**  
+- 🔭 Currently working on: **ElderHelp.ai** 🚑 (AI + Social Good)  
+- 🌱 Learning: **Next.js, Docker, AI APIs, Web3**  
+- ⚡ Fun Fact: I debug faster with **☕ Midnight Coffee**  
+- 🎯 Goal: To **build impactful, scalable, and real-world solutions**  
 
 ---
 
-## 📫 Let's Connect
+## 🛠️ Tech Arsenal  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pawan-pal-28514632a/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white"></a>
-  <a href="mailto:pawannnn2141@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white"></a>
-  <a href="https://github.com/Pawan2141-git"><img src="https://img.shields.io/badge/-GitHub-black?logo=github&style=for-the-badge&logoColor=white"></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cpp,react,nodejs,express,next,tailwind,mongodb,firebase,docker,aws,vercel,git,github&perline=9" />
 </p>
 
 ---
 
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3orieUe6ejxSFxYCXe/giphy.gif" width="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pawan2141-git&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pawan2141-git&theme=radical&hide_border=true" height="180"/>
 </p>
 
-<p align="center"><i>"Thank you for visiting my profile 💖 — Happy Coding!"</i></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pawan2141-git&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pawan2141-git&theme=onedark&no-frame=true&margin-w=15&row=1&column=6" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+### 🌟 ElderHelp.ai  
+A social good platform helping elderly people with medicine delivery, urgent help & AI chatbot.  
+🔗 [Live Demo](https://elderhelp-ai.vercel.app/) | 💻 [GitHub Repo](https://github.com/Pawan2141-git/ElderHelp.ai)  
+**Tech:** React, Node.js, Express, MongoDB, Tailwind, OpenAI API  
+
+---
+
+### ✨ Harry Potter Invisible Cloak 🧙  
+Fun Computer Vision project that makes you **invisible with Python + OpenCV**.  
+💻 [GitHub Repo](https://github.com/Pawan2141-git/harry-potter-invible-cloat)  
+**Tech:** Python, OpenCV  
+
+---
+
+### 💈 HairKnow (Salon Booking Website)  
+A modern booking system for salons with premium UI.  
+💻 [GitHub Repo](https://github.com/Pawan2141-git/salon-booking-website)  
+**Tech:** HTML, CSS, JavaScript  
+
+---
+
+### 🤖 Aria AI Chatbot  
+Voice + Text AI chatbot powered by GPT API.  
+💻 [GitHub Repo](https://github.com/Pawan2141-git/Aria-ai-chatbot)  
+**Tech:** HTML, JavaScript, OpenAI  
+
+---
+
+## 🌍 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pawan-pal-28514632a/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:pawannnn2141@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Pawan2141-git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+## 🐍 Watch My Contributions Grow  
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pawan2141-git/Pawan2141-git/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pawan2141-git/Pawan2141-git/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Pawan2141-git/Pawan2141-git/output/github-snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
+</p>
+
+---
+
+<h3 align="center">✨ "Code. Build. Innovate. Repeat." ✨</h3>
+
+<!-- 🌈 Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333399,100:ff00cc&height=150&section=footer"/>
+</p>
