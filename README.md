@@ -5,6 +5,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=250&section=header&text=Pawan%20Pal%20🔥&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
+<!-- 🚀 Matrix Hacker Gif -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="600" alt="Matrix Hacker" />
+</p>
+
 <h2 align="center">💻 Full Stack Developer | 🚀 AI Explorer | 🌐 Open Source Enthusiast</h2>
 
 <p align="center">
@@ -52,7 +57,7 @@
 
 ### 🌟 ElderHelp.ai  
 A social good platform helping elderly people with medicine delivery, urgent help & AI chatbot.  
-🔗 [Live Demo](https://elderhelp-ai.vercel.app/) | 💻 [GitHub Repo](https://github.com/Pawan2141-git/ElderHelp.ai)  
+🔗 [Live Demo](https://elderhelp-ai.vercel.app/) | 💻 [GitHub Repo](https://github.com/Pawan2141-git/ElderHelp-ai)  
 **Tech:** React, Node.js, Express, MongoDB, Tailwind, OpenAI API  
 
 ---
@@ -88,17 +93,9 @@ Voice + Text AI chatbot powered by GPT API.
 
 ---
 
-## 🐍 Watch My Contributions Grow  
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pawan2141-git/Pawan2141-git/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pawan2141-git/Pawan2141-git/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Pawan2141-git/Pawan2141-git/output/github-snake.svg" alt="GitHub Contribution Snake" />
-  </picture>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500" alt="rocket launch gif" />
 </p>
-
----
 
 <h3 align="center">✨ "Code. Build. Innovate. Repeat." ✨</h3>
 
