@@ -66,14 +66,14 @@ Fun Computer Vision project that makes you **invisible with Python + OpenCV**.
 
 ### 💈 HairKnow (Salon Booking Website)  
 A modern booking system for salons with premium UI.  
-💻 [GitHub Repo](https://github.com/Pawan2141-git/salon-booking-website)  
+🔗 [Live Demo](https://salon-booking-website.vercel.app/) | 💻 [GitHub Repo](https://github.com/Pawan2141-git/salon-booking-website)  
 **Tech:** HTML, CSS, JavaScript  
 
 ---
 
 ### 🤖 Aria AI Chatbot  
 Voice + Text AI chatbot powered by GPT API.  
-💻 [GitHub Repo](https://github.com/Pawan2141-git/Aria-ai-chatbot)  
+🔗 [Live Demo](https://aria-ai-chatbot.vercel.app/) | 💻 [GitHub Repo](https://github.com/Pawan2141-git/Aria-ai-chatbot)  
 **Tech:** HTML, JavaScript, OpenAI  
 
 ---
