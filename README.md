@@ -16,8 +16,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+Smart+Apps+for+Future;AI+%7C+Web3+%7C+Cloud+Engineering;Always+Learning+New+Things;Open+Source+%7C+Innovation%7C+Impact!&center=true&width=800&height=45&color=00F5D4" alt="Typing SVG" />
 </p>
 
-        https://pawanx-port-folio-2kil.vercel.app/
-
 ---
 
 ## 🙋‍♂️ About Me  
@@ -91,7 +89,7 @@ Voice + Text AI chatbot powered by GPT API.
   <a href="https://www.linkedin.com/in/pawan-pal-28514632a/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:pawannnn2141@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Pawan2141-git"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  
+  <a href="https://pawanx-port-folio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
